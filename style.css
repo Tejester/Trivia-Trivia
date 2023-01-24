@@ -1,6 +1,9 @@
 body {
-  background: lightblue;
+  background: rgb(83, 83, 235);
   text-align: center;
+  border-style: dotted;
+  border-color: red;
+  border-width: 25px;
 }
 
 #trivia-categories {
